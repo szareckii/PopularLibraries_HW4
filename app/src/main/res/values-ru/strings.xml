@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Конверте</string>
+    <string name="defaultCounter">0</string>
+    <string name="login_user">login_user</string>
+    <string name="button_convert">Картинка</string>
+    <string name="text_message">Выберите картинку для конвертации</string>
+</resources>

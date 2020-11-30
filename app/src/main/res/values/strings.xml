@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Convert</string>
+    <string name="defaultCounter">0</string>
+    <string name="login_user">login_user</string>
+    <string name="button_convert">Image</string>
+    <string name="text_message">Select a picture to convert</string>
+</resources>
